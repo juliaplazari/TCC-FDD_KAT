@@ -1,4 +1,4 @@
-# Fault Detection in Electrical Machines through Analysis of Vibration and Current Time Series decomposed with EMD and SSA and applying Machine Learning Algorithms
+# Bearing Fault Detection through Vibration and Current Signals decomposed with EMD and SSA
 
 Repository for the codes used in the final thesis of my graduation, in which I used the [KAT dataset](https://mb.uni-paderborn.de/kat/forschung/kat-datacenter/bearing-datacenter) for fault detection
 
